@@ -1,6 +1,6 @@
-To-Do List (Python CLI Application)
+To-Do List 
 
-A clean and intuitive command-line-based To-Do List application built in Python, designed to help you manage tasks swiftly and efficiently. This project serves as a neat demonstration of class-based design and is a great learning tool for anyone exploring Python.
+A clean and intuitive Tkinter-based To-Do List application built in Python, designed to help you manage tasks swiftly and efficiently. This project serves as a neat demonstration of class-based design and is a great learning tool for anyone exploring Python.
 
 What’s Inside
 
@@ -14,7 +14,7 @@ Simple menu-driven interface—ideal for maintenance and extension.
 
 Features
 
-Class-based implementation – leverages OOP for modular, maintainable code.
+Class-based implementation –  maintainable code.
 
 Essential to-do operations – add new tasks, view all tasks, mark tasks as completed, delete tasks, and exit the application.
 
